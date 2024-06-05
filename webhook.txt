@@ -1,3 +1,7 @@
 A webhook is an HTTP-based callback function that allows lightweight, event-driven communication between two application programming interfaces (APIs). 
 
 When an event occurs in one system, the webhook sends a notification to the other system. 
+
+Sending notifications when a new order is placed in an e-commerce store
+
+Updating a customer’s profile when they make a change to their account

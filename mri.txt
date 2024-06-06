@@ -6,3 +6,5 @@ What is MRI? Magnetic resonance imaging, or MRI, is a noninvasive medical imagin
 
 One of the most remarkable aspects of MRI is its ability to produce highly detailed images of soft tissues, which are often difficult to visualize using other imaging techniques like X-rays or CT scans. This capability makes MRI an invaluable tool for diagnosing conditions 
 affecting the brain, spinal cord, muscles, joints, and organs such as the heart and liver. 
+beauty
+bye

@@ -6,5 +6,3 @@ Now we need to implement webhook for github similar what we did for bitbucket
 github is very useful for coding ann pushing it
 
 hey this is github speakin
-
-hey this is chandrasehar

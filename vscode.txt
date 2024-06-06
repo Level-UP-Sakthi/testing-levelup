@@ -1,0 +1,6 @@
+Visual Studio Code (VS Code), developed by Microsoft, has emerged as one of the most popular code editors among developers worldwide.
+
+Since its launch in 2015, VS Code has gained a remarkable following, owing to its versatility, robust feature set, and commitment to open-source principles. This essay explores the evolution, features,
+
+and impact of VS Code on the programming community, highlighting why it has become an indispensable tool for developers.
+

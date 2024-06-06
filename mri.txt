@@ -1,3 +1,8 @@
 What is MRI? Magnetic resonance imaging, or MRI, is a noninvasive medical imaging test that produces detailed images of almost every internal structure in the human body, including the organs, bones, muscles and blood vessels.
 
  MRI scanners create images of the body using a large magnet and radio waves.
+
+ At the heart of MRI technology is the principle of nuclear magnetic resonance. This phenomenon occurs when the nuclei of certain atoms, placed in a magnetic field, absorb and re-emit electromagnetic radiation.
+
+One of the most remarkable aspects of MRI is its ability to produce highly detailed images of soft tissues, which are often difficult to visualize using other imaging techniques like X-rays or CT scans. This capability makes MRI an invaluable tool for diagnosing conditions 
+affecting the brain, spinal cord, muscles, joints, and organs such as the heart and liver. 

@@ -8,3 +8,6 @@ One of the most remarkable aspects of MRI is its ability to produce highly detai
 affecting the brain, spinal cord, muscles, joints, and organs such as the heart and liver. 
 beauty
 bye
+good morning
+good afternoon
+good night

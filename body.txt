@@ -1,2 +1,6 @@
 The human body is a single structure but it is made up of billions of smaller structures of four major kinds: cells, tissues, organs, and systems
  An organ is an organization of several different kinds of tissues so arranged that together they can perform a special function.
+ hand
+ nose
+ ear
+ hello

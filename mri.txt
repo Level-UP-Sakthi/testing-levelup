@@ -11,3 +11,6 @@ bye
 good morning
 good afternoon
 good night
+this is MRI
+hey
+bye

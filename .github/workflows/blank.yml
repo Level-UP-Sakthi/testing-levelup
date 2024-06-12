@@ -25,6 +25,15 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          -d '{"state": "success", "description": "All tests passed", "context": "CI"}' \
-          https://api.github.com/repos/Level-UP-Sakthi/testing-levelup/statuses/${{ github.sha }}
+          $body = @{
+            state = "success"
+            description = "All tests passed"
+            context = "CI"
+          } | ConvertTo-Json
+
+          Invoke-RestMethod -Uri "https://api.github.com/repos/Level-UP-Sakthi/testing-levelup/statuses/${{ github.sha }}" `
+                            -Method Post `
+                            -Headers @{ Authorization = "token ${{ secrets.GITHUB_TOKEN }}" } `
+                            -Body $body `
+                            -ContentType "application/json"
+

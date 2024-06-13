@@ -3,3 +3,6 @@ MRI
 difficult
 individuals
 australia
+usa
+france
+Italy

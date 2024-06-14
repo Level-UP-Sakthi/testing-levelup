@@ -4,8 +4,6 @@ The human body is a single structure but it is made up of billions of smaller st
  nose
  ear
  hello
- mouth
- teeth
  pink
  black
  white
@@ -14,3 +12,4 @@ The human body is a single structure but it is made up of billions of smaller st
  hey this is me speaking
  hello guys
  sakthi
+ sham

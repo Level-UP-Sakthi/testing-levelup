@@ -21,3 +21,14 @@ wc 2
 wc 3
 wc 4
 
+t20 1
+t20 2
+t20 3
+t20 4
+t20 5
+
+odi 1
+odi 2
+odi 3
+odi 4
+

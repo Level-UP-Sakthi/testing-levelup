@@ -6,3 +6,8 @@ and impact of VS Code on the programming community, highlighting why it has beco
 this is vscode coding
 this is vscode coding
 
+vscode 1
+vscode 2
+vscode 3
+vscode 4
+

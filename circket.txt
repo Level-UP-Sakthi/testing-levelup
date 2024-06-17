@@ -15,3 +15,9 @@ cricket 1
 cricket 2
 cricket 3
 cricket 4
+
+wc 1
+wc 2
+wc 3
+wc 4
+

@@ -30,3 +30,7 @@ world
 movie
 movie
 movie
+
+nature 1
+nature 2
+nature 3

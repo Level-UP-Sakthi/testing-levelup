@@ -26,9 +26,3 @@ book 6
 book 7
 book 8
 
-book 9
-book 10
-
-books 11
-books 12
-books 13

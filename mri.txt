@@ -20,12 +20,6 @@ mri
 MRI change
 MRI change
 
-hey 
-hey
-
-hey 
-hey 
-bye
 
 hello
 hello

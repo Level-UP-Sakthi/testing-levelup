@@ -8,9 +8,6 @@ movie2
 movie2
 netflix
 netflix
-netflix
-
-hey netflix
 hey netflix
 
 hello netflix

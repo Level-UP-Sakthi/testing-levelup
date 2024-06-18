@@ -5,11 +5,6 @@ What is the latest movie in netflix?
 movie
 movie1
 
-netflix
-hey netflix
-
-hello netflix
-hello netflix
 
 netflix 1
 netflix 2

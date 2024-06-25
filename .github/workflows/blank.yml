@@ -3,6 +3,7 @@ name: Build and Deploy
 on:
  
   pull_request:
+    types: [opened, synchronize] # Only trigger on new commits and updates to the PR
     branches:
       - '**'
 

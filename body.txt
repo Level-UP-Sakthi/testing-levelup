@@ -34,3 +34,5 @@ hellooooo
 ear nose 
 hand
 leg
+mouth 
+tongue
